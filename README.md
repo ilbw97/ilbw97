@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<a href="ilbw9738@gmail.com" target="_blank"><img src="https://img.shields.io/badge/000000?style=social&logo=#EA4335&logoColor=00ff00"/></a>
+<a href="https://www.linkedin.com/in/byeoungwoo-lee-306a58202/" target="_blank"><img src="https://img.shields.io/badge/000000?style=social&logo=0A66C2&logoColor=00ff00"/></a>
 ![ByeongwooLee's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilbw97&show_icons=true&theme=radical)
